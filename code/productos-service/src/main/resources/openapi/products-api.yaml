@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: API Pública de Productos
+  title: API de Productos
   version: 1.0.0
   description: Aggregator que combina información de catálogo y descuentos.
 paths:
